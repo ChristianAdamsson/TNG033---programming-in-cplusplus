@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1479640198 source:h:\tng033\lab1_new\main.cpp
+	<iostream>
+	<iomanip>
+	<new>
+	"set.h"
+
+1478794124 h:\tng033\lab1_new\set.h
+	<iostream>
+
+1482311685 source:h:\tng033\lab1_new\set.cpp
+	"set.h"
+	<algorithm>
+
+1482309826 source:h:\tng033\lab1_new\lab1\main.cpp
+

@@ -1,0 +1,12 @@
+vector v = {
+  1,
+  2,
+  3,
+  4,
+  5
+}
+map m = {
+  { 1, first },
+  { 2, second },
+  { 3, third }
+}
